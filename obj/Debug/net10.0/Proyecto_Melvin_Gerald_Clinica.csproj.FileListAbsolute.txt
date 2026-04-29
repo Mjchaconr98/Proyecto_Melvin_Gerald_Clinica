@@ -33,3 +33,5 @@ D:\Universidad\Analisis y Diseño de Archivos\Proyecto\Proyecto_Melvin_Gerald_Cl
 D:\Universidad\Analisis y Diseño de Archivos\Proyecto\Proyecto_Melvin_Gerald_Clinica\obj\Debug\net10.0\Proyecto_Melvin_Gerald_Clinica.pdb
 D:\Universidad\Analisis y Diseño de Archivos\Proyecto\Proyecto_Melvin_Gerald_Clinica\obj\Debug\net10.0\Proyecto_Melvin_Gerald_Clinica.genruntimeconfig.cache
 D:\Universidad\Analisis y Diseño de Archivos\Proyecto\Proyecto_Melvin_Gerald_Clinica\obj\Debug\net10.0\ref\Proyecto_Melvin_Gerald_Clinica.dll
+D:\Universidad\Analisis y Diseño de Archivos\Proyecto\Proyecto_Melvin_Gerald_Clinica\obj\Debug\net10.0\Proyecto_Melvin_Gerald_Clinica.sourcelink.json
+D:\Universidad\Analisis y Diseño de Archivos\Proyecto\Proyecto_Melvin_Gerald_Clinica\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "21",
+    "IdPaciente": "3",
+    "IdMedico": "2",
+    "Fecha": "2026-04-28T23:35:33.285Z",
+    "Hora": "17:40",
+    "Especialidad": "general",
+    "Estado": "critico"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "3",
+    "Nombre": "Melvin J",
+    "Cedula": "207850568",
+    "FechaNacimiento": "1998-11-06T23:36:59.764Z",
+    "Genero": "Masculino",
+    "Direccion": "Bajo Rodriguez",
+    "Telefono": "87186651",
+    "Correo": "melvin@gmail.com",
+    "EstadoClinico": "espera",
+    "FechaRegistro": "2026-04-28T23:36:59.764Z"
+  }
+]

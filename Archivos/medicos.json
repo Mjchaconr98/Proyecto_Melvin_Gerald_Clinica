@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "2",
+    "Nombre": "Gerald",
+    "CedulaProfesional": "20",
+    "Especialidad": "General",
+    "Telefono": "64968814",
+    "Correo": "gerald@gmail.com",
+    "HorarioConsulta": "Noche",
+    "Estado": "Activo"
+  }
+]
